@@ -1,0 +1,9 @@
+{
+  // Disabled due to matangover.mypy extension not supporting monorepos
+  // To be addressed as part of https://github.com/matangover/mypy-vscode/issues/82
+  "mypy.enabled": false,
+
+  "python.analysis.extraPaths": [
+        "projects/smart-contract-be-prod/.venv/lib/python3.12/site-packages"
+    ]
+}

@@ -1,0 +1,7 @@
+#pragma version 10
+
+smart_contracts.lesson_compile.contract.LessonCompile.clear_state_program:
+    // smart_contracts/lesson_compile/contract.py:5
+    // class LessonCompile(ARC4Contract):
+    int 1
+    return
