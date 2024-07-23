@@ -5,5 +5,8 @@
 
   "python.analysis.extraPaths": [
         "projects/smart-contract-be-prod/.venv/lib/python3.12/site-packages"
-    ]
+    ],
+
+  "python.analysis.indexing": true,
+  "python.analysis.autoImportCompletions": true,
 }
